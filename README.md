@@ -9,8 +9,8 @@
 
 ## 2020. 02 ~ 2021. 11 우아한 테크코스 3기
 ### 프리코스
-|Project |Repository|
-|:------:|:---------:|
+|프로젝트 |리포지토리|키워드|나만의 작은 미션|
+|:------:|:---------:|:---------:|:---------:|
 |숫자 야구 게임|[java-baseball-precourse](https://github.com/da-nyee/java-baseball-precourse/tree/da-nyee)|
 |자동차 경주 게임|[java-racingcar-precourse](https://github.com/da-nyee/java-racingcar-precourse/tree/da-nyee)|
 |지하철 노선도 미션|[java-subway-map-precourse](https://github.com/da-nyee/java-subway-map-precourse/tree/da-nyee)|
