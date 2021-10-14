@@ -7,12 +7,8 @@
 - 스프링 수업
 - 세종 문화 회관 CRM
 
-## 2020. 11 ~ 2021. 11 우아한 테크코스 3기
+## 2020. 02 ~ 2021. 11 우아한 테크코스 3기
 ### 프리코스
-#### 기간
-- 2020.11.25 – 2020.12.16
-
-#### 진행 미션
 |Project |Repository|
 |:------:|:---------:|
 |숫자 야구 게임|[java-baseball-precourse](https://github.com/da-nyee/java-baseball-precourse/tree/da-nyee)|
