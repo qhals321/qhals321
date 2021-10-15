@@ -16,8 +16,10 @@
 |지하철 노선도 미션|[java-subway-map-precourse](https://github.com/qhals321/java-subway-map-precourse/tree/bomin)|3차|x|
 |지하철 노선도 경로 조회 미션|[java-subway-path-precourse](https://github.com/qhals321/java-subway-path-precourse/tree/bomin)|최종|x|
 
-##### LEVEL 1
-- dd
+### LEVEL 1
+|프로젝트 |리포지토리|키워드|나만의 작은 미션|
+|:------:|:---------:|:---------:|:---------:|
+|자동차 경주 게임|[java-racingcar](https://github.com/qhals321/java-baseball-precourse/tree/bomin)|테스트, 전략패턴, 람다식|x|
 ##### LEVEL 2
 - dd
 ##### LEVEL 3
