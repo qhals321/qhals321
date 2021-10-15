@@ -22,6 +22,7 @@
 |자동차 경주 게임|[java-racingcar](https://github.com/qhals321/java-racingcar/tree/qhals321)|테스트, 전략패턴, 람다식, MVC|x|
 |로또|[java-lotto](https://github.com/qhals321/java-lotto/tree/qhals321)|스트림, TDD, 일급 컬렉션, 전략패턴|x|
 |블랙잭|[java-blackjack](https://github.com/qhals321/java-blackjack/tree/qhals321)|DTO, MVC, 상태패턴|x|
+|체스|[java-chess](https://github.com/qhals321/java-chess/tree/qhals321)|추상화, 팩토리패턴, 상태패턴, Spark|웹소켓(실시간 게임, 실시간 채팅)|
 
 ##### LEVEL 2
 - dd
