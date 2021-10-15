@@ -19,8 +19,9 @@
 ### LEVEL 1
 |프로젝트 |리포지토리|키워드|나만의 작은 미션|
 |:------:|:---------:|:---------:|:---------:|
-|자동차 경주 게임|[java-racingcar](https://github.com/qhals321/java-racingcar/tree/bomin)|테스트, 전략패턴, 람다식, MVC|x|
+|자동차 경주 게임|[java-racingcar](https://github.com/qhals321/java-racingcar/tree/qhals321)|테스트, 전략패턴, 람다식, MVC|x|
 |로또|[java-lotto](https://github.com/qhals321/java-lotto/tree/qhals321)|스트림, TDD, 일급 컬렉션, 전략패턴|x|
+|블랙잭|[java-blackjack](https://github.com/qhals321/java-blackjack/tree/qhals321)|DTO, MVC, 상태패턴|x|
 
 ##### LEVEL 2
 - dd
