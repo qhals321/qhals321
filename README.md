@@ -63,3 +63,12 @@
 - 인수 테스트 툴 리팩토링([관련 글 바로가기](https://nabom.oopy.io/75ef5c7b-f928-42c2-bbb0-00a7283beae2))
   - 어떤 테스트 도구 구현체가 와도(MockMvc, RestAssured) 유연하게 적용할 수 있는 테스트 툴 구현
   - 키워드 : 어댑터 패턴, MockMvc, RestAssured, Rollback
+
+#### 우아한 테크코스 미션
+|프로젝트 |리포지토리|키워드|나만의 작은 미션|
+|:------:|:---------:|:---------:|:---------:|
+|HTTP 서버 구현하기|[jwp-dashboard-http](https://github.com/qhals321/jwp-dashboard-http/tree/qhals321)|서블릿, 쿠키, 세션|스프링 코어 구현, 스프링 mvc 구현, ArgumentResolver 구현|
+|MVC 프레임워크 구현하기|[jwp-dashboard-mvc](https://github.com/qhals321/jwp-dashboard-mvc/tree/qhals321)|스프링 mvc, 리팩터링|ReturnTypeResolver 구현|
+|JDBC 라이브러리 구현하기|[jwp-dashboard-jdbc](https://github.com/qhals321/jwp-dashboard-jdbc/tree/qhals321)|JDBC, 스프링|트랜잭션 관리 구현|
+|조회 성능 개선하기|[sql-tuning](https://github.com/qhals321/sql-tuning/tree/qhals321)|인덱스, 실행계획|[관련 글 정리](https://nabom.oopy.io/2ab7b78a-9130-42c2-8072-43440a2ea416)|
+|레거시 코드 리팩터링|[jwp-refactoring](https://github.com/qhals321/jwp-refactoring/tree/qhals321)|리팩터링, JPA, Event Driven, 멀티모듈|테스트 툴 작성|
