@@ -8,7 +8,7 @@
 - 세종 문화 회관 CRM
 
 ## 2020. 02 ~ 2021. 11 우아한 테크코스 3기
-## 2022. 01 ~          우아한 형제들
+
 ### 프리코스
 |프로젝트 |리포지토리|키워드|나만의 작은 미션|
 |:------:|:---------:|:---------:|:---------:|
@@ -73,3 +73,5 @@
 |JDBC 라이브러리 구현하기|[jwp-dashboard-jdbc](https://github.com/woowacourse/jwp-dashboard-jdbc/tree/qhals321)|JDBC, 스프링|트랜잭션 관리 구현|
 |조회 성능 개선하기|[sql-tuning](https://github.com/woowacourse/sql-tuning/tree/qhals321)|인덱스, 실행계획|[관련 글 정리](https://nabom.oopy.io/2ab7b78a-9130-42c2-8072-43440a2ea416)|
 |레거시 코드 리팩터링|[jwp-refactoring](https://github.com/woowacourse/jwp-refactoring/tree/qhals321)|리팩터링, JPA, Event Driven, 멀티모듈, 의존성|테스트 툴 작성|
+
+## 2022. 01 ~          우아한 형제들
